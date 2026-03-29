@@ -23,10 +23,11 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma imagem com base nas ferramentas que são padrão na análise de dados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei para a apresentação a ferramenta Gemini para imagem ("https://gemini.google.com/app?hl=pt-BR")
+A Chatgpt utilizei para a criação do script ("https://chatgpt.com/")
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo

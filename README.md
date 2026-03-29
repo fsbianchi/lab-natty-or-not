@@ -1,5 +1,4 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-![portrait-fantasy-wizard-character](https://github.com/user-attachments/assets/b0b632c7-0a24-4ada-ada8-05df5f6c7ab8)
 
 ## 🚀 Introdução
 

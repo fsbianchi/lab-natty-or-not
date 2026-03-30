@@ -1,3 +1,6 @@
+
+<img width="1190" height="896" alt="Projeto1" src="https://github.com/user-attachments/assets/eb2edc1c-d507-4833-a277-deb60689bf69" />
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução

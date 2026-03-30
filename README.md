@@ -30,7 +30,8 @@ Utilizei para a apresentação a ferramenta Gemini para imagem ("https://gemini.
 A Chatgpt utilizei para a criação do script ("https://chatgpt.com/")
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Na apresentação utilizei um prompt com palavras chaves e solicitei que a IA colocar na imagem as ferramentas de análise de dados.
+Na criação da imagem utilizei algumas características de jogos junto.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto

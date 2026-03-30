@@ -37,8 +37,7 @@ Na apresentação utilizei um prompt com palavras chaves e solicitei que a IA co
 Na criação da imagem utilizei algumas características de jogos junto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+Apresente os resultados do seu projeto ("https://github.com/fsbianchi/lab-natty-or-not/blob/main/README.md")
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
